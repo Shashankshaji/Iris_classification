@@ -1,3 +1,5 @@
+[![Build Status](https://img.shields.io/github/forks/Shashankshaji/Iris_classification.svg?style=social)](https://github.com/Shashankshaji/Iris_classification)
+[![Build Status](https://img.shields.io/github/stars/Shashankshaji/Iris_classification.svg?style=social)](https://github.com/Shashankshaji/Iris_classification)
 # Iris_classification
 Here I am using Iris dataset for the species Iris setosa, Iris versicolor and Iris virginica and we need to classify this species of flower by   taking different features of flower like petal and sepal.
 # TOOLS USED
